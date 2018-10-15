@@ -1,6 +1,8 @@
 # Jobshop-shcheduling
 Algorytm genetyczny na zaliczenie projektu z optymalizacji kombinatorycznej.
 
+Zapraszam do przeczytania sprawozdania (i jednocześnie przepraszam za formę)
+
 Więcej na temat problemu Jobshop:
 https://en.wikipedia.org/wiki/Job_shop_scheduling 
 
