@@ -1,6 +1,9 @@
 # Jobshop-shcheduling
 Algorytm genetyczny na zaliczenie projektu z optymalizacji kombinatorycznej.
 
+Problem:
+http://www.cs.put.poznan.pl/mradom/resources/Problemy2018.pdf
+
 Zapraszam do przeczytania sprawozdania.
 
 Więcej na temat problemu Jobshop:
